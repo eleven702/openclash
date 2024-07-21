@@ -24,6 +24,10 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
+#自己添加
+DOMAIN-SUFFIX,self.events.data.microsoft.com
+DOMAIN-SUFFIX,ip138.com
+DOMAIN-SUFFIX,ipip.com
 
 # 360
 DOMAIN-SUFFIX,360.com
@@ -34,9 +38,6 @@ DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
-DOMAIN-SUFFIX,self.events.data.microsoft.com
-DOMAIN-SUFFIX,ip138.com
-DOMAIN-SUFFIX,ipip.com
 
 # 58
 DOMAIN-SUFFIX,58.com
