@@ -25,7 +25,7 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 #自己添加
-DOMAIN-SUFFIX,self.events.data.microsoft.com
+
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ipip.com
 DOMAIN-SUFFIX,adguardteam.github.io
@@ -34,7 +34,6 @@ DOMAIN-SUFFIX,easylist-downloads.adblockplus.org
 DOMAIN-SUFFIX,anti-ad.net
 DOMAIN-SUFFIX,filters.adtidy.org
 DOMAIN-SUFFIX,adaway.org
-DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,filters.adtidy.org
 DOMAIN-SUFFIX,docker.m.daocloud.io
 DOMAIN-SUFFIX,docker.1panel.live
@@ -50,7 +49,6 @@ DOMAIN-SUFFIX,speed.neu6.edu.cn
 DOMAIN-SUFFIX,v6.ident.me
 DOMAIN-SUFFIX,6.ipw.cn
 DOMAIN-SUFFIX,45671234.xyz
-DOMAIN-SUFFIX,cn.bing.com
 
 # 360
 DOMAIN-SUFFIX,360.com
