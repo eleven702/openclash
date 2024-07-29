@@ -1,0 +1,15 @@
+missav.com
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "self.events.data.microsoft.com"
+      ],
+      "domain_suffix": [
+        "oneclient.sfx.ms",
+        "storage.live.com"
+      ]
+    }
+  ]
+}
